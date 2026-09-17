@@ -1,0 +1,88 @@
+section{
+    /* border: 2px solid red; */
+    height: 100vh;
+    display: flex;
+}
+.left{
+    /* border: 2px solid blue; */
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+}
+main{
+    /* border: 2px solid yellow; */
+    width: 70%;
+
+}
+header{
+    /* border: 2px solid rebeccapurple; */
+    height: 15%;
+    font-size: 18px;
+    justify-content: center;
+    color: white;
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    
+}
+.main{
+    /* border: 2px solid brown; */
+    height: 70%;
+    display: flex;
+}
+.left1{
+    /* border: 2px solid pink; */
+    width: 50%;
+    display: flex;
+    background-color: pink;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.right2{
+    /* border: 2px solid indigo; */
+    width: 50%;
+}
+.top{
+    /* border: 2px solid yellowgreen; */
+    height: 50%;
+    background-color: yellowgreen;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.bottom{
+    /* border: 2px solid indianred; */
+    height: 50%;
+    background-color: indianred;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+footer{
+    /* border: 2px solid brown; */
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:brown ;
+    color: white;
+    font-size: 18px;
+}
+
+.right{
+    /* border: 2px solid orange; */
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+}
